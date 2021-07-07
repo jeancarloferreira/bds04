@@ -1,4 +1,4 @@
-package com.devsuperior.bds03.controllers.exceptions;
+package com.devsuperior.bds04.controller.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
